@@ -3,7 +3,7 @@ Site similar to The New York Times : [Project: HTML & CSS](https://btholt.github
 <hr/>
 <div align="center">
 
-  [Demo](https://btholt.github.io/intro-to-web-dev-v2/project-html-css)
+  [Demo](https://abhijeetsatpute.github.io/Newspaper/)
 
 </div>
 
